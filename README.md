@@ -1,4 +1,4 @@
-This is my Simplilearn Capstone Project
+<b>This is my Simplilearn Capstone Project.</b>
 
 It is a critical requirement for business to understand the value derived from a customer. RFM is a method used for analyzing customer value.
 Customer segmentation is the practice of segregating the customer base into groups of individuals based on some common characteristics such as age, gender, interests, and spending habits
@@ -6,7 +6,7 @@ Perform customer segmentation using RFM analysis. The resulting segments can be 
 Dataset Description
 This is a transnational data set which contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique and all-occasion gifts.
 
-Variables	Description
+<b>Variables	Description</b>
 InvoiceNo	Invoice number. Nominal, a six digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation
 StockCode	Product (item) code. Nominal, a five digit integral number uniquely assigned to each distinct product
 Description	Product (item) name. Nominal
